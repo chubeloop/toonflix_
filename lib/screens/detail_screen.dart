@@ -123,7 +123,7 @@ class _DetailScreenState extends State<DetailScreen> {
                   ],
                 ),
                 const SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 FutureBuilder(
                     future: webtoon, builder: (context, snapshot) {
